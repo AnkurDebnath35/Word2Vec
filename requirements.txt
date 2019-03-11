@@ -1,0 +1,5 @@
+1. Install numpy
+2. Install tensorflow
+3. Install keras
+4. Install nltk
+5. Install matplotlib
